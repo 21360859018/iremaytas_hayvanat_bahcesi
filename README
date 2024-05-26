@@ -1,0 +1,7 @@
+sitenin adresi= http://95.130.171.20/~st21360859018  
+youtube linki= https://youtu.be/sZwweVSXzxU?si=cY3Cch5bE_p20A9-
+Siteye gidip formu dolduruyoruz . Girilen bilgiler panele düşüyor ve panele git butonuna tıklayarak önceden de girilmiş
+olan veritabanındaki bilgileri girilen metinleri görebiliyoruz. Panel sayfasındaki tabloda düzenlemek istediğimiz veriler için
+düzenle ye basıp açılan sayfada değişmesini istediğimiz veriyi değiştirebiliyoruz . Eğer girilen verileri silmek istersek satırların 
+sonundaki sil e tıklayıp silebiliyoruz ve bu değişiklikler veri tabanına direkt yansıyor. Eğer ana sayfaya dönmek istersekte 
+Giriş Sayfasına Dön e tıklayarak ana sayfaya dönebiliyoruz. Yapılan işlemlerden sonra gelen mesajla işlemlerimizin gerçekleştiğini teyit edebiliyoruz.
