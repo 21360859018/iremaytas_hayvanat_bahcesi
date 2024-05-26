@@ -1,0 +1,8 @@
+CREATE TABLE hayvanlar (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    cins VARCHAR(255) NOT NULL,
+    saglik VARCHAR(255) NOT NULL,
+    beslenme VARCHAR(255) NOT NULL,
+    alan VARCHAR(255) NOT NULL,
+    diger TEXT NOT NULL
+);
