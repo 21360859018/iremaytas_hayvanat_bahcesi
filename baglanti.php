@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root"; 
-$password = ""; 
+$password = "";   // burada veri tabanının şifresini adını username i giriyoruz .
 $dbname = "hayvanat_bahcesi";
 
 // veritabanına bağlanırken aynı sırayla girdim ki sorun olmasın
